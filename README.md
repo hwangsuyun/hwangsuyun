@@ -22,14 +22,20 @@
 ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-444444?style=flat&logo=ChatGPT) ![Gemini](https://img.shields.io/badge/-Gemini-444444?style=flat&logo=Gemini)
 
 ---
-#### Github Stats
+#### Github Stats / Top Language
 
 ![hwangsuyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangsuyun&show_icons=true&theme=radical)
-
-
-#### Top Language
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwangsuyun&layout=compact)
+
+---
+
+#### Contact
+<a href="https://blog.naver.com/hwangsuyun">
+  <img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://blog.naver.com/hwangsuyun"/>
+</a>&nbsp
+<a href="mailto:hwangdkcla@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hwangdkcla@gmail.com"/>
+</a>
 
 ---
 
