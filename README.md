@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi there 👋 , I'm sueyon. Enjoy it)](https://git.io/typing-svg)
 
 <!--
 **hwangsuyun/hwangsuyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
