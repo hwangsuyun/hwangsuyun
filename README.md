@@ -39,7 +39,7 @@
 
 ---
 
-![BEPb's github contribution graph snake](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+<!--![BEPb's github contribution graph snake](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 
 ---
 <!--
